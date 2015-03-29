@@ -1,0 +1,58 @@
+body {
+ 	background-image: url("symphony.png");
+	color: #00B4F5;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
+}
+	a:link {color:#EA1864;}
+	a:visited {color: #EA1864;}
+	a:hover {color: #00B4F5;}
+	a:active {color:#FFFFFF;}
+
+
+img{
+	border-style: solid; 
+	border-color:#EA1864;
+	border-radius: 10px 10px 10px 10px;
+}
+
+.center {
+	text-align: center;
+}
+.right {
+	text-align: right;
+}
+.skb {
+	color: #FD7FAD;
+}
+.u {
+	text-decoration: underline;
+}
+.pad150 {
+	padding-top: 150px;
+}
+.pad50{
+	padding-top:50px;
+}
+.pad25{
+	padding-top:25px;
+}
+
+.padr25{
+	padding-right:25px;
+}
+
+.padl50{
+	padding-left: 50px;
+}
+
+.padl25{
+	padding-left: 25px
+}
+
+.bottom{
+	padding-bottom: 25px
+}
+.italics{
+	font-style: italic;
+}
